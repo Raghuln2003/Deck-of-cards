@@ -1,1 +1,1 @@
-# Deck-of-cards
+# Solitaire Card Game
